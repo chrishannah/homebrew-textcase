@@ -1,4 +1,4 @@
-# Chrishannah Textcase
+# Text Case
 
 ## How do I install these formulae?
 
