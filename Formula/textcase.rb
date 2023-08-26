@@ -2,7 +2,7 @@ class Textcase < Formula
   desc "Text transformation tool"
   homepage "https://github.com/chrishannah/textcase-cli"
   url "https://github.com/chrishannah/textcase-cli/archive/refs/tags/1.0.tar.gz"
-  sha256 "ecad14bd576eee6c3652e0a412d056571c7dfd1a66cc86a042199a9d8b5a6693"
+  sha256 "d0c4e51db7fef8cea375ac4ab08790056a0cff240defc311baa48fd8a66fff82"
   license "GPL-3.0-only"
 
   depends_on xcode: ["14.0", :build]
