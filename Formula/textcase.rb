@@ -5,7 +5,7 @@ class Textcase < Formula
   sha256 "ecad14bd576eee6c3652e0a412d056571c7dfd1a66cc86a042199a9d8b5a6693"
   license "GPL-3.0-only"
 
-  depends_on xcode: ["14.0", :build]
+  depends_on :macos
 
   uses_from_macos "swift"
 
